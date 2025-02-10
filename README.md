@@ -1,0 +1,2 @@
+# genai
+gen ai implementaion

@@ -40,9 +40,9 @@
 
 ## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
 
-- Krish Naik : https://www.youtube.com/@krishnaik06
-- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
-- Success Stories By Krish: https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
+- Ganesh Patil : https://www.youtube.com/@Ganeshnaik06
+- Ganesh Patil Hindi: https://www.youtube.com/@Ganeshnaikhindi
+- Success Stories By Ganesh: https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
 - Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
 - Join My whatsapp channel:https://whatsapp.com/channel/0029Va9q4Yh2Jl8NIS1oPX01
 - Join My Telegram Channel:https://t.me/+V0UeLG8ji-F8ThNb

@@ -1,2 +1,17 @@
 **/logs/
 *.env
+*.settings.json
+*.vscode/
+*.ipynb_checkpoints
+*.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.egg
+*.log
+*.coverage
+*.mypy_cache/
+*.pytest_cache/
+*.tox/

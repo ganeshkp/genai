@@ -1,7 +1,8 @@
-langchain
+langchain>=1.0.0
+streamlit
 python-dotenv
 ipykernel
-langchain-community
+langchain-community>=0.4.0
 pypdf
 bs4
 arxiv
@@ -17,7 +18,7 @@ langchain_chroma
 duckdb
 pandas
 openai
-langchain-groq
+langchain-groq>=1.1.0
 duckduckgo-search
 pymupdf
 arxiv

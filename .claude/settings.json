@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show *)",
+      "Bash(ollama list *)",
+      "Bash(python -c \"from langchain_text_splitters import RecursiveCharacterTextSplitter; print\\('ok'\\)\")"
+    ]
+  }
+}
